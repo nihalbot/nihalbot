@@ -1,1 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&width=435&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Hello%2C+There!+%F0%9F%91%8B;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+This+is+Nihal....;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Nice+to+meet+you!)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nihal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
