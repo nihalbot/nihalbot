@@ -1,9 +1,1 @@
-- 👋 Hi, I’m nihal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C
-- 📫 How to reach me https://www.facebook.com/veer.islam.37
-
-<!---
-nihalbot/nihalbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&width=435&lines=+++++++++++++++++++++++Hello%2C+There!+%F0%9F%91%8B;This+is+Nihal....;Nice+to+meet+you!)](https://git.io/typing-svg)
