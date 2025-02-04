@@ -56,7 +56,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/tanvirtraderbd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/></a>
   <a href="https://hashnode.com/@yourhandle"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white"/></a>
   <a href="https://dev.to/yourhandle"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white"/></a>
