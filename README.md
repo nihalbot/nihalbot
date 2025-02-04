@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nihal....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h1 align="center">✨ Hi, I'm [Your Name] ✨</h1>
+<h1 align="center">✨ Hi, I'm Nihal Khan✨</h1>
 <p align="center">
   <img src="https://your-banner-image-url.com" alt="Banner" width="800px"/>
 </p>
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ❤️ Love to talk about **Research and Innovation!**
 - 💪 Passionate about **Competitive Coding**
-- 📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+- 📫 How to reach me: [iamtanvirislam50@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
