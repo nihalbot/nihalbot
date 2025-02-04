@@ -5,7 +5,7 @@
 </h1>
 <h1 align="center">✨ Hi, I'm Nihal Khan✨</h1>
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner" width="800px"/>
+  <img src="https://raw.githubusercontent.com/Bharat2044/Bharat2044/refs/heads/main/assets/header.png" alt="Banner" width="800px"/>
 </p>
 
 ## 🚀 About Me
