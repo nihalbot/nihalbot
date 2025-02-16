@@ -20,22 +20,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalbot&show_icons=true&theme=dark" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalbot&layout=compact&theme=dark" height="150px"/>
 </p>
 
 ---
 
 ## 🚀 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalbot&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalbot&theme=dark" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nihalbot&theme=radical" />
 </p>
 
 ---
